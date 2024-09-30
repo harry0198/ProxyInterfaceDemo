@@ -1,0 +1,14 @@
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.AssemblyInfo.cs
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\bin\Debug\net8.0\ProxyInterfaceDemo.exe
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\bin\Debug\net8.0\ProxyInterfaceDemo.deps.json
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\bin\Debug\net8.0\ProxyInterfaceDemo.runtimeconfig.json
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\bin\Debug\net8.0\ProxyInterfaceDemo.dll
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\bin\Debug\net8.0\ProxyInterfaceDemo.pdb
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.dll
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\refint\ProxyInterfaceDemo.dll
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.pdb
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ProxyInterfaceDemo.genruntimeconfig.cache
+C:\Users\Harry.Drummond\RiderProjects\ProxyInterfaceDemo\ProxyInterfaceDemo\obj\Debug\net8.0\ref\ProxyInterfaceDemo.dll

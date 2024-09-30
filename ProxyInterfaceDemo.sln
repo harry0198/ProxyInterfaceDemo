@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyInterfaceDemo", "ProxyInterfaceDemo\ProxyInterfaceDemo.csproj", "{7B7E0D2A-61C2-44D1-B53C-55C8C50CF270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7E0D2A-61C2-44D1-B53C-55C8C50CF270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7E0D2A-61C2-44D1-B53C-55C8C50CF270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7E0D2A-61C2-44D1-B53C-55C8C50CF270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7E0D2A-61C2-44D1-B53C-55C8C50CF270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
